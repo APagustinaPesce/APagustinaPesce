@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Agustina!</h1>
+<h1 align="center">Hola 👋 soy Agustina!</h1>
 <h3 align="center">Una apasionada desarrolladora frontend de Argentina.</h3>
 
 - 🔭 Actualmente estoy trabajando en [Huellas Unidas](https://github.com/APagustinaPesce/PF3-HENRY)
@@ -7,8 +7,8 @@
 
 - 📝 Puedes encontrarme en **http://www.linkedin.com/in/agustinapesce2406**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="left">Acerca de mi:</h3>
+<p align="left">💻 Frontend Developer con experiencia en tecnologías como Node.js, Next.js, React, TypeScript.
 </p>
 
 <h3 align="left">Lenguajes y herramientas:</h3>
